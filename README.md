@@ -48,6 +48,3 @@ We welcome contributions! Feel free to submit issues, fork the repository, and c
 ## 📝 License
 
 This project is licensed under the MIT License.
-```
-
-You can replace the placeholder image URLs with actual images relevant to your project.
